@@ -1,0 +1,25 @@
+{
+    "files": [
+        {
+            "name": "anim.img",
+            "path": "anim/anim.img",
+            "size": "10942464",
+            "url": "https://arbasdev.github.io/fivez_city/lite_data/files/anim/anim.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cuts.img",
+            "path": "anim/cuts.img",
+            "size": "270096384",
+            "url": "https://arbasdev.github.io/fivez_city/lite_data/files/anim/cuts.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.ifp",
+            "path": "anim/ped.ifp",
+            "size": "1433248",
+            "url": "https://arbasdev.github.io/fivez_city/lite_data/files/anim/ped.ifp",
+            "gpu": "all"
+        }
+    ]
+}
