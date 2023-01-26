@@ -1,6 +1,6 @@
 {
     "game_version": "6.0",
-	"game_state": false,
+	"game_state": true,
 	"game_message": "ขออภัยในความไม่สะดวก!!\nปิดปรับปรุงระบบ 2 ชั่วโมง",
     "game_url": "https://arbasdev.github.io/fivez_city/game/gtafivez.apk",
     "lite_data_url": "https://arbasdev.github.io/fivez_city/lite_data/list.json",
