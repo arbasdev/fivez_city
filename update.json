@@ -1,6 +1,6 @@
 {
     "game_version": "6.0",
-	"upload": true,
+	"game_upload": true,
     "game_url": "https://arbasdev.github.io/fivez_city/game/gtafivez.apk",
     "lite_data_url": "https://arbasdev.github.io/fivez_city/lite_data/list.json",
     "full_data_url": "https://arbasdev.github.io/fivez_city/full_data/list.json"
