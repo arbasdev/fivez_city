@@ -1,10 +1,12 @@
 {
     "webview": [
         {
-            "name": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg",
+            "name": "1",
+			"url": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg"
         },
         {
-            "name": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg",
+            "name": "2",
+			"url": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg"
         }
     ]
 }
