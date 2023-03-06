@@ -2,14 +2,17 @@
     "view": [
         {
             "name": "1",
+			"details": "ทดสอบ01",
 			"url": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg"
         },
         {
             "name": "2",
+			"details": "ทดสอบ02",
 			"url": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg"
         },
         {
             "name": "3",
+			"details": "ทดสอบ03",
 			"url": "https://v4i.rweb-images.com/www.coopindustry.com/images/content/original-1548075007371.jpg"
         }
     ]
