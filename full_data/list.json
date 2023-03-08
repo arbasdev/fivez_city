@@ -23,7 +23,7 @@
 		{
 			"name": "AudioEventHistory.txt",
 			"path": "audio/CONFIG/AudioEventHistory.txt",
-			"size": "114056",
+			"size": "99580",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/audio/CONFIG/AudioEventHistory.txt",
 			"gpu": "all"
 		},
@@ -380,7 +380,7 @@
 		{
 			"name": "carcols.dat",
 			"path": "data/carcols.dat",
-			"size": "15361",
+			"size": "14996",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/carcols.dat",
 			"gpu": "all"
 		},
@@ -401,7 +401,7 @@
 		{
 			"name": "clothes.dat",
 			"path": "data/clothes.dat",
-			"size": "5317",
+			"size": "5119",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/clothes.dat",
 			"gpu": "all"
 		},
@@ -436,7 +436,7 @@
 		{
 			"name": "furnitur.dat",
 			"path": "data/furnitur.dat",
-			"size": "16480",
+			"size": "16010",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/furnitur.dat",
 			"gpu": "all"
 		},
@@ -457,7 +457,7 @@
 		{
 			"name": "handling.cfg",
 			"path": "data/handling.cfg",
-			"size": "64532",
+			"size": "64016",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/handling.cfg",
 			"gpu": "all"
 		},
@@ -478,7 +478,7 @@
 		{
 			"name": "melee.dat",
 			"path": "data/melee.dat",
-			"size": "6306",
+			"size": "6085",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/melee.dat",
 			"gpu": "all"
 		},
@@ -527,7 +527,7 @@
 		{
 			"name": "popcycle.dat",
 			"path": "data/popcycle.dat",
-			"size": "127108",
+			"size": "126382",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/popcycle.dat",
 			"gpu": "all"
 		},
@@ -541,14 +541,14 @@
 		{
 			"name": "shopping.dat",
 			"path": "data/shopping.dat",
-			"size": "46875",
+			"size": "45516",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/shopping.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "statdisp.dat",
 			"path": "data/statdisp.dat",
-			"size": "7292",
+			"size": "7120",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/statdisp.dat",
 			"gpu": "all"
 		},
@@ -576,7 +576,7 @@
 		{
 			"name": "timecyc.dat",
 			"path": "data/timecyc.dat",
-			"size": "40037",
+			"size": "39600",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/timecyc.dat",
 			"gpu": "all"
 		},
@@ -779,7 +779,7 @@
 		{
 			"name": "cull.ipl",
 			"path": "data/maps/cull.ipl",
-			"size": "104318",
+			"size": "103065",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/cull.ipl",
 			"gpu": "all"
 		},
@@ -800,7 +800,7 @@
 		{
 			"name": "occluLA.ipl",
 			"path": "data/maps/occluLA.ipl",
-			"size": "35956",
+			"size": "35462",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/occluLA.ipl",
 			"gpu": "all"
 		},
@@ -821,35 +821,35 @@
 		{
 			"name": "paths.ipl",
 			"path": "data/maps/paths.ipl",
-			"size": "2658607",
+			"size": "2605206",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/paths.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths2.ipl",
 			"path": "data/maps/paths2.ipl",
-			"size": "2292241",
+			"size": "2245002",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/paths2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths3.ipl",
 			"path": "data/maps/paths3.ipl",
-			"size": "2428066",
+			"size": "2378344",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/paths3.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths4.ipl",
 			"path": "data/maps/paths4.ipl",
-			"size": "253014",
+			"size": "247219",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/paths4.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths5.ipl",
 			"path": "data/maps/paths5.ipl",
-			"size": "457678",
+			"size": "448568",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/paths5.ipl",
 			"gpu": "all"
 		},
@@ -863,7 +863,7 @@
 		{
 			"name": "countn2.ide",
 			"path": "data/maps/country/countn2.ide",
-			"size": "35439",
+			"size": "34636",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countn2.ide",
 			"gpu": "all"
 		},
@@ -877,63 +877,63 @@
 		{
 			"name": "countrye.ide",
 			"path": "data/maps/country/countrye.ide",
-			"size": "34529",
+			"size": "33753",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countrye.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countrye.ipl",
 			"path": "data/maps/country/countrye.ipl",
-			"size": "49301",
+			"size": "48733",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countrye.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countryN.ide",
 			"path": "data/maps/country/countryN.ide",
-			"size": "11308",
+			"size": "11034",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countryN.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countryN.ipl",
 			"path": "data/maps/country/countryN.ipl",
-			"size": "14407",
+			"size": "14231",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countryN.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countryS.ide",
 			"path": "data/maps/country/countryS.ide",
-			"size": "18450",
+			"size": "18007",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countryS.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countryS.ipl",
 			"path": "data/maps/country/countryS.ipl",
-			"size": "33835",
+			"size": "33471",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countryS.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countryW.ide",
 			"path": "data/maps/country/countryW.ide",
-			"size": "19704",
+			"size": "19217",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countryW.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countryw.ipl",
 			"path": "data/maps/country/countryw.ipl",
-			"size": "35057",
+			"size": "34645",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/countryw.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "counxref.ide",
 			"path": "data/maps/country/counxref.ide",
-			"size": "8494",
+			"size": "8289",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/country/counxref.ide",
 			"gpu": "all"
 		},
@@ -1241,7 +1241,7 @@
 		{
 			"name": "LAs.ide",
 			"path": "data/maps/LA/LAs.ide",
-			"size": "12575",
+			"size": "12280",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/LA/LAs.ide",
 			"gpu": "all"
 		},
@@ -1255,7 +1255,7 @@
 		{
 			"name": "LAs2.ide",
 			"path": "data/maps/LA/LAs2.ide",
-			"size": "12364",
+			"size": "12081",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/LA/LAs2.ide",
 			"gpu": "all"
 		},
@@ -1269,7 +1269,7 @@
 		{
 			"name": "LAw.ide",
 			"path": "data/maps/LA/LAw.ide",
-			"size": "9412",
+			"size": "9178",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/LA/LAw.ide",
 			"gpu": "all"
 		},
@@ -1311,7 +1311,7 @@
 		{
 			"name": "LAxref.ide",
 			"path": "data/maps/LA/LAxref.ide",
-			"size": "10477",
+			"size": "10238",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/LA/LAxref.ide",
 			"gpu": "all"
 		},
@@ -1374,7 +1374,7 @@
 		{
 			"name": "SFe.ipl",
 			"path": "data/maps/SF/SFe.ipl",
-			"size": "26707",
+			"size": "26364",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/SF/SFe.ipl",
 			"gpu": "all"
 		},
@@ -1402,28 +1402,28 @@
 		{
 			"name": "SFs.ipl",
 			"path": "data/maps/SF/SFs.ipl",
-			"size": "37969",
+			"size": "37517",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/SF/SFs.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFSe.ide",
 			"path": "data/maps/SF/SFSe.ide",
-			"size": "30227",
+			"size": "29547",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/SF/SFSe.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "SFSe.ipl",
 			"path": "data/maps/SF/SFSe.ipl",
-			"size": "53359",
+			"size": "52710",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/SF/SFSe.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFw.ide",
 			"path": "data/maps/SF/SFw.ide",
-			"size": "16473",
+			"size": "16043",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/SF/SFw.ide",
 			"gpu": "all"
 		},
@@ -1444,21 +1444,21 @@
 		{
 			"name": "vegasE.ide",
 			"path": "data/maps/vegas/vegasE.ide",
-			"size": "35542",
+			"size": "34726",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/vegas/vegasE.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegasE.ipl",
 			"path": "data/maps/vegas/vegasE.ipl",
-			"size": "61084",
+			"size": "60327",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/vegas/vegasE.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "VegasN.ide",
 			"path": "data/maps/vegas/VegasN.ide",
-			"size": "23715",
+			"size": "23173",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/vegas/VegasN.ide",
 			"gpu": "all"
 		},
@@ -1472,7 +1472,7 @@
 		{
 			"name": "VegasS.ide",
 			"path": "data/maps/vegas/VegasS.ide",
-			"size": "18656",
+			"size": "18232",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/vegas/VegasS.ide",
 			"gpu": "all"
 		},
@@ -1514,7 +1514,7 @@
 		{
 			"name": "veh_mods.ide",
 			"path": "data/maps/veh_mods/veh_mods.ide",
-			"size": "7323",
+			"size": "7117",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/maps/veh_mods/veh_mods.ide",
 			"gpu": "all"
 		},
@@ -1535,7 +1535,7 @@
 		{
 			"name": "tracks.dat",
 			"path": "data/paths/tracks.dat",
-			"size": "25474",
+			"size": "24547",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/paths/tracks.dat",
 			"gpu": "all"
 		},
@@ -1549,7 +1549,7 @@
 		{
 			"name": "tracks3.dat",
 			"path": "data/paths/tracks3.dat",
-			"size": "8328",
+			"size": "8027",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/data/paths/tracks3.dat",
 			"gpu": "all"
 		},
@@ -1598,7 +1598,7 @@
 		{
 			"name": "effects.fxp",
 			"path": "models/effects.fxp",
-			"size": "616708",
+			"size": "573091",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/models/effects.fxp",
 			"gpu": "all"
 		},
@@ -1654,7 +1654,7 @@
 		{
 			"name": "samp.ide",
 			"path": "SAMP/samp.ide",
-			"size": "87794",
+			"size": "85744",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/SAMP/samp.ide",
 			"gpu": "all"
 		},
@@ -1836,7 +1836,7 @@
 		{
 			"name": "gta3.txt",
 			"path": "texdb/gta3/gta3.txt",
-			"size": "805081",
+			"size": "792635",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/texdb/gta3/gta3.txt",
 			"gpu": "all"
 		},
@@ -2151,7 +2151,7 @@
 		{
 			"name": "samp.txt",
 			"path": "texdb/samp/samp.txt",
-			"size": "63746",
+			"size": "62664",
 			"url": "https://arbasdev.github.io/fivez_data/full_data/texdb/samp/samp.txt",
 			"gpu": "all"
 		},
