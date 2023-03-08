@@ -129,7 +129,7 @@
         {
             "name": "AA.osw",
             "path": "audio/STREAMS/AA.osw",
-            "size": "2553090",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/AA.osw",
             "gpu": "all"
         },
@@ -143,7 +143,7 @@
         {
             "name": "ADVERTS.osw",
             "path": "audio/STREAMS/ADVERTS.osw",
-            "size": "22094516",
+            "size": "3516982",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/ADVERTS.osw",
             "gpu": "all"
         },
@@ -171,7 +171,7 @@
         {
             "name": "BEATS.osw",
             "path": "audio/STREAMS/BEATS.osw",
-            "size": "9733284",
+            "size": "9415375",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/BEATS.osw",
             "gpu": "all"
         },
@@ -185,7 +185,7 @@
         {
             "name": "CH.osw",
             "path": "audio/STREAMS/CH.osw",
-            "size": "23643254",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/CH.osw",
             "gpu": "all"
         },
@@ -199,7 +199,7 @@
         {
             "name": "CO.osw",
             "path": "audio/STREAMS/CO.osw",
-            "size": "26237012",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/CO.osw",
             "gpu": "all"
         },
@@ -213,7 +213,7 @@
         {
             "name": "CR.osw",
             "path": "audio/STREAMS/CR.osw",
-            "size": "28343124",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/CR.osw",
             "gpu": "all"
         },
@@ -227,7 +227,7 @@
         {
             "name": "CUTSCENE.osw",
             "path": "audio/STREAMS/CUTSCENE.osw",
-            "size": "58162442",
+            "size": "301175",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/CUTSCENE.osw",
             "gpu": "all"
         },
@@ -241,7 +241,7 @@
         {
             "name": "DS.osw",
             "path": "audio/STREAMS/DS.osw",
-            "size": "29491630",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/DS.osw",
             "gpu": "all"
         },
@@ -255,7 +255,7 @@
         {
             "name": "HC.osw",
             "path": "audio/STREAMS/HC.osw",
-            "size": "29978537",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/HC.osw",
             "gpu": "all"
         },
@@ -269,7 +269,7 @@
         {
             "name": "MH.osw",
             "path": "audio/STREAMS/MH.osw",
-            "size": "30158819",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/MH.osw",
             "gpu": "all"
         },
@@ -283,7 +283,7 @@
         {
             "name": "MR.osw",
             "path": "audio/STREAMS/MR.osw",
-            "size": "25951626",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/MR.osw",
             "gpu": "all"
         },
@@ -297,7 +297,7 @@
         {
             "name": "NJ.osw",
             "path": "audio/STREAMS/NJ.osw",
-            "size": "25533874",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/NJ.osw",
             "gpu": "all"
         },
@@ -311,7 +311,7 @@
         {
             "name": "RE.osw",
             "path": "audio/STREAMS/RE.osw",
-            "size": "29309761",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/RE.osw",
             "gpu": "all"
         },
@@ -325,7 +325,7 @@
         {
             "name": "RG.osw",
             "path": "audio/STREAMS/RG.osw",
-            "size": "25485757",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/RG.osw",
             "gpu": "all"
         },
@@ -339,7 +339,7 @@
         {
             "name": "TK.osw",
             "path": "audio/STREAMS/TK.osw",
-            "size": "42588058",
+            "size": "15462",
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/TK.osw",
             "gpu": "all"
         },
@@ -350,20 +350,20 @@
             "url": "https://arbasdev.github.io/fivez_data/full_data/audio/STREAMS/TK.osw.idx",
             "gpu": "all"
         },
-        {
-            "name": "360Default1280x720.cfg",
-            "path": "data/360Default1280x720.cfg",
-            "size": "10907",
-            "url": "https://arbasdev.github.io/fivez_data/full_data/data/360Default1280x720.cfg",
-            "gpu": "all"
-        },
-        {
+		{
             "name": "360Default960x720.cfg",
             "path": "data/360Default960x720.cfg",
-            "size": "10897",
+            "size": "10888",
             "url": "https://arbasdev.github.io/fivez_data/full_data/data/360Default960x720.cfg",
             "gpu": "all"
         },
+        {
+            "name": "360Default1280x720.cfg",
+            "path": "data/360Default1280x720.cfg",
+            "size": "10898",
+            "url": "https://arbasdev.github.io/fivez_data/full_data/data/360Default1280x720.cfg",
+            "gpu": "all"
+        },      
         {
             "name": "animgrp.dat",
             "path": "data/animgrp.dat",
@@ -626,14 +626,14 @@
         {
             "name": "water.dat",
             "path": "data/water.dat",
-            "size": "70407",
+            "size": "70099",
             "url": "https://arbasdev.github.io/fivez_data/full_data/data/water.dat",
             "gpu": "all"
         },
         {
             "name": "water1.dat",
             "path": "data/water1.dat",
-            "size": "60331",
+            "size": "60063",
             "url": "https://arbasdev.github.io/fivez_data/full_data/data/water1.dat",
             "gpu": "all"
         },
