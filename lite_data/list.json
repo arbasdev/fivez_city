@@ -1631,13 +1631,6 @@
 			"gpu": "all"
 		},
 		{
-			"name": "handling.cfg",
-			"path": "SAMP/handling.cfg",
-			"size": "64532",
-			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/handling.cfg",
-			"gpu": "all"
-		},
-		{
 			"name": "main.scm",
 			"path": "SAMP/main.scm",
 			"size": "103876",
@@ -1647,7 +1640,7 @@
 		{
 			"name": "peds.ide",
 			"path": "SAMP/peds.ide",
-			"size": "37765",
+			"size": "37389",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/peds.ide",
 			"gpu": "all"
 		},
@@ -2074,7 +2067,7 @@
 		{
 			"name": "player.txt",
 			"path": "texdb/player/player.txt",
-			"size": "28205",
+			"size": "27810",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/player/player.txt",
 			"gpu": "all"
 		},
