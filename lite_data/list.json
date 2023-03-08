@@ -1605,23 +1605,23 @@
         },
 		{
             "name": "arial.ttf",
-            "path": "fonts/arial.ttf",
+            "path": "SAMP/fonts/arial.ttf",
             "size": "91696",
-            "url": "https://arbasdev.github.io/fivez_data/lite_data/fonts/arial.ttf",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/fonts/arial.ttf",
             "gpu": "all"
         },
         {
             "name": "gtaweap3.ttf",
-            "path": "fonts/gtaweap3.ttf",
+            "path": "SAMP/fonts/gtaweap3.ttf",
             "size": "99296",
-            "url": "https://arbasdev.github.io/fivez_data/lite_data/fonts/gtaweap3.ttf",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/fonts/gtaweap3.ttf",
             "gpu": "all"
         },
 		{
             "name": "sampaux3.ttf",
-            "path": "fonts/sampaux3.ttf",
+            "path": "SAMP/fonts/sampaux3.ttf",
             "size": "11544",
-            "url": "https://arbasdev.github.io/fivez_data/lite_data/fonts/sampaux3.ttf",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/fonts/sampaux3.ttf",
             "gpu": "all"
         },
         {
