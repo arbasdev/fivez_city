@@ -1653,10 +1653,10 @@
             "gpu": "all"
         },
         {
-            "name": "SAMP.ide",
-            "path": "SAMP/SAMP.ide",
+            "name": "samp.ide",
+            "path": "SAMP/samp.ide",
             "size": "87794",
-            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/SAMP.ide",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/samp.ide",
             "gpu": "all"
         },
         {
@@ -1675,9 +1675,9 @@
         },
         {
             "name": "WEAPON.dat",
-            "path": "SAMP/WEAPON.dat",
+            "path": "SAMP/weapon.dat",
             "size": "11602",
-            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/WEAPON.dat",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/SAMP/weapon.dat",
             "gpu": "all"
         },
         {
@@ -2184,6 +2184,104 @@
             "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/samp.img",
             "gpu": "all"
         },
+		{
+            "name": "txd.360.dat",
+            "path": "texdb/txd/txd.360.dat",
+            "size": "7625578",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.360.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.tmb",
+            "path": "texdb/txd/txd.360.tmb",
+            "size": "31028",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.360.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.toc",
+            "path": "texdb/txd/txd.360.toc",
+            "size": "2376",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.360.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.dat",
+            "path": "texdb/txd/txd.dxt.dat",
+            "size": "7625578",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "path": "texdb/txd/txd.dxt.tmb",
+            "size": "31028",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.toc",
+            "path": "texdb/txd/txd.dxt.toc",
+            "size": "2376",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.etc.dat",
+            "path": "texdb/txd/txd.etc.dat",
+            "size": "9422056",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.etc.tmb",
+            "path": "texdb/txd/txd.etc.tmb",
+            "size": "49460",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.etc.toc",
+            "path": "texdb/txd/txd.etc.toc",
+            "size": "2376",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.pvr.dat",
+            "path": "texdb/txd/txd.pvr.dat",
+            "size": "7716880",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.pvr.tmb",
+            "path": "texdb/txd/txd.pvr.tmb",
+            "size": "25204",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.pvr.toc",
+            "path": "texdb/txd/txd.pvr.toc",
+            "size": "2376",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.txt",
+            "path": "texdb/txd/txd.txt",
+            "size": "43193",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.txt",
+            "gpu": "all"
+        },
+		{
+            "name": "txd.unc.tmb",
+            "path": "texdb/txd/txd.unc.tmb",
+            "size": "59636",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/txd/txd.unc.tmb",
+            "gpu": "all"
+        },
         {
             "name": "img0.360.dat",
             "path": "texdb/img0/img0.360.dat",
@@ -2533,7 +2631,84 @@
             "size": "23361536",
             "url": "https://arbasdev.github.io/fivez_data/lite_data/texdb/img2.img",
             "gpu": "all"
-        }
+        },
+		{
+            "name": "american.gxt",
+            "path": "text/american.gxt",
+            "size": "1339424",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/american.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "french.gxt",
+            "path": "text/french.gxt",
+            "size": "1459044",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/french.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "german.gxt",
+            "path": "text/german.gxt",
+            "size": "1497182",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/german.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "italian.gxt",
+            "path": "text/italian.gxt",
+            "size": "1371048",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/italian.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "japanese.gxt",
+            "path": "text/japanese.gxt",
+            "size": "643202",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/japanese.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "russian.gxt",
+            "path": "text/russian.gxt",
+            "size": "1421038",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/russian.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "spanish.gxt",
+            "path": "text/spanish.gxt",
+            "size": "1386744",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/text/spanish.gxt",
+            "gpu": "all"
+        },
+		{
+            "name": "JapaneseFont.met",
+            "path": "Textures/fonts/JapaneseFont.met",
+            "size": "45171",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/Textures/fonts/JapaneseFont.met",
+            "gpu": "all"
+        },
+		{
+            "name": "JapaneseFont.png",
+            "path": "Textures/fonts/JapaneseFont.png",
+            "size": "187721",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/Textures/fonts/JapaneseFont.png",
+            "gpu": "all"
+        },
+		{
+            "name": "RussianFont.met",
+            "path": "Textures/fonts/RussianFont.met",
+            "size": "4279",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/Textures/fonts/RussianFont.met",
+            "gpu": "all"
+        },
+		{
+            "name": "RussianFont.png",
+            "path": "Textures/fonts/RussianFont.png",
+            "size": "38743",
+            "url": "https://arbasdev.github.io/fivez_data/lite_data/Textures/fonts/RussianFont.png",
+            "gpu": "all"
+        },
 
         
     ]
