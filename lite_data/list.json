@@ -7,7 +7,6 @@
             "url": "https://arbasdev.github.io/fivez_data/lite_data/anim/anim.img",
             "gpu": "all"
         },
-		,
         {
             "name": "cuts.img",
             "path": "anim/cuts.img",
