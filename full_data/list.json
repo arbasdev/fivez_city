@@ -654,126 +654,126 @@
 			"name": "Cop.ped",
 			"path": "data/Decision/Allowed/Cop.ped",
 			"size": "4908",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/Cop.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/Cop.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "Fireman.ped",
 			"path": "data/Decision/Allowed/Fireman.ped",
 			"size": "4435",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/Fireman.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/Fireman.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "GangMbr.ped",
 			"path": "data/Decision/Allowed/GangMbr.ped",
 			"size": "6194",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/GangMbr.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/GangMbr.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "Indoors.ped",
 			"path": "data/Decision/Allowed/Indoors.ped",
 			"size": "2809",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/Indoors.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/Indoors.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_empty.ped",
 			"path": "data/Decision/Allowed/m_empty.ped",
 			"size": "982",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/m_empty.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/m_empty.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_norm.ped",
 			"path": "data/Decision/Allowed/m_norm.ped",
 			"size": "4142",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/m_norm.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/m_norm.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_plyr.ped",
 			"path": "data/Decision/Allowed/m_plyr.ped",
 			"size": "2000",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/m_plyr.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/m_plyr.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_steal.ped",
 			"path": "data/Decision/Allowed/m_steal.ped",
 			"size": "3663",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/m_steal.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/m_steal.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_tough.ped",
 			"path": "data/Decision/Allowed/m_tough.ped",
 			"size": "3980",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/m_tough.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/m_tough.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_weak.ped",
 			"path": "data/Decision/Allowed/m_weak.ped",
 			"size": "4062",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/m_weak.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/m_weak.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "MISSION.grp",
 			"path": "data/Decision/Allowed/MISSION.grp",
 			"size": "2758",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/MISSION.grp",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/MISSION.grp",
 			"gpu": "all"
 		},
 		{
 			"name": "R_Norm.ped",
 			"path": "data/Decision/Allowed/R_Norm.ped",
 			"size": "6450",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/R_Norm.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/R_Norm.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "R_Tough.ped",
 			"path": "data/Decision/Allowed/R_Tough.ped",
 			"size": "6378",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/R_Tough.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/R_Tough.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "R_Weak.ped",
 			"path": "data/Decision/Allowed/R_Weak.ped",
 			"size": "6289",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/R_Weak.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/R_Weak.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "RANDOM.grp",
 			"path": "data/Decision/Allowed/RANDOM.grp",
 			"size": "4623",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/RANDOM.grp",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/RANDOM.grp",
 			"gpu": "all"
 		},
 		{
 			"name": "RANDOM.ped",
 			"path": "data/Decision/Allowed/RANDOM.ped",
 			"size": "4142",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/RANDOM.ped",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/RANDOM.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "RANDOM2.grp",
 			"path": "data/Decision/Allowed/RANDOM2.grp",
 			"size": "4623",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/Allowed/RANDOM2.grp",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/Allowed/RANDOM2.grp",
 			"gpu": "all"
 		},
 		{
 			"name": "PedEvent.txt",
 			"path": "data/Decision/PedEvent.txt",
 			"size": "1298",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE_data/raw/main/data/files/data/Decision/PedEvent.txt",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/data/Decision/PedEvent.txt",
 			"gpu": "all"
 		},
 		{
@@ -1774,7 +1774,7 @@
 			"name": "gta3.dxt.dat",
 			"path": "texdb/gta3/gta3.dxt.dat",
 			"size": "185360320",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.dxt.dat",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/texdb/gta3/gta3.dxt.dat",
 			"gpu": "all"
 		},
 		{
@@ -1795,7 +1795,7 @@
 			"name": "gta3.etc.dat",
 			"path": "texdb/gta3/gta3.etc.dat",
 			"size": "185815036",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.etc.dat",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/texdb/gta3/gta3.etc.dat",
 			"gpu": "all"
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"name": "gta3.pvr.dat",
 			"path": "texdb/gta3/gta3.pvr.dat",
 			"size": "115246394",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.pvr.dat",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/texdb/gta3/gta3.pvr.dat",
 			"gpu": "all"
 		},
 		{
@@ -1851,7 +1851,7 @@
 			"name": "gta3.img",
 			"path": "texdb/gta3.img",
 			"size": "283525120",
-			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.img",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/texdb/gta3.img",
 			"gpu": "all"
 		},
 		{
@@ -1997,7 +1997,7 @@
 		{
 			"name": "mobile.txt",
 			"path": "texdb/mobile/mobile.txt",
-			"size": "14688",
+			"size": "14490",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/full_data/texdb/mobile/mobile.txt",
 			"gpu": "all"
 		},
