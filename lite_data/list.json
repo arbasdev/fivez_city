@@ -1773,7 +1773,7 @@
 		{
 			"name": "gta3.dxt.dat",
 			"path": "texdb/gta3/gta3.dxt.dat",
-			"size": "185360320",
+			"size": "185311596",
 			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.dxt.dat",
 			"gpu": "all"
 		},
@@ -1794,7 +1794,7 @@
 		{
 			"name": "gta3.etc.dat",
 			"path": "texdb/gta3/gta3.etc.dat",
-			"size": "185815036",
+			"size": "185725552",
 			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.etc.dat",
 			"gpu": "all"
 		},
@@ -1815,7 +1815,7 @@
 		{
 			"name": "gta3.pvr.dat",
 			"path": "texdb/gta3/gta3.pvr.dat",
-			"size": "115246394",
+			"size": "115205762",
 			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.pvr.dat",
 			"gpu": "all"
 		},
@@ -1836,7 +1836,7 @@
 		{
 			"name": "gta3.txt",
 			"path": "texdb/gta3/gta3.txt",
-			"size": "805081",
+			"size": "792635",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/gta3/gta3.txt",
 			"gpu": "all"
 		},
