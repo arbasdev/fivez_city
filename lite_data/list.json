@@ -1850,7 +1850,7 @@
 		{
 			"name": "gta3.img",
 			"path": "texdb/gta3.img",
-			"size": "283525120",
+			"size": "283521024",
 			"url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.img",
 			"gpu": "all"
 		},
@@ -1997,7 +1997,7 @@
 		{
 			"name": "mobile.txt",
 			"path": "texdb/mobile/mobile.txt",
-			"size": "14688",
+			"size": "14490",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/mobile/mobile.txt",
 			"gpu": "all"
 		},
