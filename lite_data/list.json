@@ -1680,6 +1680,27 @@
 			"gpu": "all"
 		},
 		{
+			"name": "Adjustable.cfg",
+			"path": "Adjustable.cfg",
+			"size": "1529",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/Adjustable.cfg",
+			"gpu": "all"
+		},
+		{
+			"name": "gta_sa.set",
+			"path": "gta_sa.set",
+			"size": "159",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/gta_sa.set",
+			"gpu": "all"
+		},
+		{
+			"name": "gtasatelem.set",
+			"path": "gtasatelem.set",
+			"size": "392",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/gtasatelem.set",
+			"gpu": "all"
+		},
+		{
 			"name": "stream.ini",
 			"path": "stream.ini",
 			"size": "197",
