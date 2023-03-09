@@ -23,7 +23,7 @@
 		{
 			"name": "AudioEventHistory.txt",
 			"path": "audio/CONFIG/AudioEventHistory.txt",
-			"size": "99580",
+			"size": "114056",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/audio/CONFIG/AudioEventHistory.txt",
 			"gpu": "all"
 		},
@@ -352,56 +352,56 @@
 		{
 			"name": "360Default960x720.cfg",
 			"path": "data/360Default960x720.cfg",
-			"size": "10689",
+			"size": "10888",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/360Default960x720.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "360Default1280x720.cfg",
 			"path": "data/360Default1280x720.cfg",
-			"size": "10701",
+			"size": "10898",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/360Default1280x720.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "animgrp.dat",
 			"path": "data/animgrp.dat",
-			"size": "2887",
+			"size": "3096",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/animgrp.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "ar_stats.dat",
 			"path": "data/ar_stats.dat",
-			"size": "3478",
+			"size": "3590",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/ar_stats.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "carcols.dat",
 			"path": "data/carcols.dat",
-			"size": "14996",
+			"size": "15361",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/carcols.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "cargrp.dat",
 			"path": "data/cargrp.dat",
-			"size": "3868",
+			"size": "3909",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/cargrp.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "carmods.dat",
 			"path": "data/carmods.dat",
-			"size": "8632",
+			"size": "8763",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/carmods.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "clothes.dat",
 			"path": "data/clothes.dat",
-			"size": "5119",
+			"size": "5317",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/clothes.dat",
 			"gpu": "all"
 		},
@@ -415,217 +415,217 @@
 		{
 			"name": "default.dat",
 			"path": "data/default.dat",
-			"size": "548",
+			"size": "577",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/default.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "default.ide",
 			"path": "data/default.ide",
-			"size": "4520",
+			"size": "4679",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/default.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "fonts.dat",
 			"path": "data/fonts.dat",
-			"size": "3474",
+			"size": "3576",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/fonts.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "furnitur.dat",
 			"path": "data/furnitur.dat",
-			"size": "16010",
+			"size": "16480",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/furnitur.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "gridref.dat",
 			"path": "data/gridref.dat",
-			"size": "1380",
+			"size": "1498",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/gridref.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "gta.dat",
 			"path": "data/gta.dat",
-			"size": "3630",
+			"size": "3776",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/gta.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "handling.cfg",
 			"path": "data/handling.cfg",
-			"size": "64016",
+			"size": "64532",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/handling.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "info.zon",
 			"path": "data/info.zon",
-			"size": "27759",
+			"size": "28139",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/info.zon",
 			"gpu": "all"
 		},
 		{
 			"name": "map.zon",
 			"path": "data/map.zon",
-			"size": "428",
+			"size": "436",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/map.zon",
 			"gpu": "all"
 		},
 		{
 			"name": "melee.dat",
 			"path": "data/melee.dat",
-			"size": "6085",
+			"size": "6306",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/melee.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "object.dat",
 			"path": "data/object.dat",
-			"size": "124878",
+			"size": "126118",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/object.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "ped.dat",
 			"path": "data/ped.dat",
-			"size": "1222",
+			"size": "1276",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/ped.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "pedgrp.dat",
 			"path": "data/pedgrp.dat",
-			"size": "5632",
+			"size": "5792",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/pedgrp.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "peds.ide",
 			"path": "data/peds.ide",
-			"size": "33055",
+			"size": "33401",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/peds.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "pedstats.dat",
 			"path": "data/pedstats.dat",
-			"size": "3541",
+			"size": "3604",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/pedstats.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "plants.dat",
 			"path": "data/plants.dat",
-			"size": "9690",
+			"size": "9887",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/plants.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "popcycle.dat",
 			"path": "data/popcycle.dat",
-			"size": "126382",
+			"size": "127108",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/popcycle.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "procobj.dat",
 			"path": "data/procobj.dat",
-			"size": "9855",
+			"size": "10019",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/procobj.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "shopping.dat",
 			"path": "data/shopping.dat",
-			"size": "45516",
+			"size": "46875",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/shopping.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "ShopUVs.dat",
 			"path": "data/ShopUVs.dat",
-			"size": "29716",
+			"size": "30509",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/ShopUVs.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "statdisp.dat",
 			"path": "data/statdisp.dat",
-			"size": "7120",
+			"size": "7292",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/statdisp.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "surface.dat",
 			"path": "data/surface.dat",
-			"size": "562",
+			"size": "576",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/surface.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "surfaud.dat",
 			"path": "data/surfaud.dat",
-			"size": "6332",
+			"size": "6530",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/surfaud.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "surfinfo.dat",
 			"path": "data/surfinfo.dat",
-			"size": "27839",
+			"size": "28106",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/surfinfo.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "timecyc.dat",
 			"path": "data/timecyc.dat",
-			"size": "39600",
+			"size": "40037",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/timecyc.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "TouchDefaultPhone3x2.cfg",
 			"path": "data/TouchDefaultPhone3x2.cfg",
-			"size": "10701",
+			"size": "10912",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/TouchDefaultPhone3x2.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "TouchDefaultPhoneWidescreen.cfg",
 			"path": "data/TouchDefaultPhoneWidescreen.cfg",
-			"size": "10716",
+			"size": "10924",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/TouchDefaultPhoneWidescreen.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "TouchDefaultTablet4x3.cfg",
 			"path": "data/TouchDefaultTablet4x3.cfg",
-			"size": "10717",
+			"size": "10926",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/TouchDefaultTablet4x3.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "TouchDefaultTabletWidescreen.cfg",
 			"path": "data/TouchDefaultTabletWidescreen.cfg",
-			"size": "10714",
+			"size": "10923",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/TouchDefaultTabletWidescreen.cfg",
 			"gpu": "all"
 		},
 		{
 			"name": "txdcut.ide",
 			"path": "data/txdcut.ide",
-			"size": "453",
+			"size": "478",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/txdcut.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vehicles.ide",
 			"path": "data/vehicles.ide",
-			"size": "20864",
+			"size": "21093",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/vehicles.ide",
 			"gpu": "all"
 		},
@@ -646,882 +646,882 @@
 		{
 			"name": "weapon.dat",
 			"path": "data/weapon.dat",
-			"size": "11431",
+			"size": "11602",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/weapon.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "Cop.ped",
 			"path": "data/Decision/Allowed/Cop.ped",
-			"size": "4888",
+			"size": "4908",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/Cop.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "Fireman.ped",
 			"path": "data/Decision/Allowed/Fireman.ped",
-			"size": "4416",
+			"size": "4435",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/Fireman.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "GangMbr.ped",
 			"path": "data/Decision/Allowed/GangMbr.ped",
-			"size": "6168",
+			"size": "6194",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/GangMbr.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "Indoors.ped",
 			"path": "data/Decision/Allowed/Indoors.ped",
-			"size": "2797",
+			"size": "2809",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/Indoors.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_empty.ped",
 			"path": "data/Decision/Allowed/m_empty.ped",
-			"size": "977",
+			"size": "982",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/m_empty.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_norm.ped",
 			"path": "data/Decision/Allowed/m_norm.ped",
-			"size": "4126",
+			"size": "4142",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/m_norm.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_plyr.ped",
 			"path": "data/Decision/Allowed/m_plyr.ped",
-			"size": "1991",
+			"size": "2000",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/m_plyr.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_steal.ped",
 			"path": "data/Decision/Allowed/m_steal.ped",
-			"size": "3648",
+			"size": "3663",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/m_steal.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_tough.ped",
 			"path": "data/Decision/Allowed/m_tough.ped",
-			"size": "3964",
+			"size": "3980",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/m_tough.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "m_weak.ped",
 			"path": "data/Decision/Allowed/m_weak.ped",
-			"size": "4046",
+			"size": "4062",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/m_weak.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "MISSION.grp",
 			"path": "data/Decision/Allowed/MISSION.grp",
-			"size": "2746",
+			"size": "2758",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/MISSION.grp",
 			"gpu": "all"
 		},
 		{
 			"name": "R_Norm.ped",
 			"path": "data/Decision/Allowed/R_Norm.ped",
-			"size": "6426",
+			"size": "6450",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/R_Norm.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "R_Tough.ped",
 			"path": "data/Decision/Allowed/R_Tough.ped",
-			"size": "6354",
+			"size": "6378",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/R_Tough.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "R_Weak.ped",
 			"path": "data/Decision/Allowed/R_Weak.ped",
-			"size": "6265",
+			"size": "6289",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/R_Weak.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "RANDOM.grp",
 			"path": "data/Decision/Allowed/RANDOM.grp",
-			"size": "4605",
+			"size": "4623",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/RANDOM.grp",
 			"gpu": "all"
 		},
 		{
 			"name": "RANDOM.ped",
 			"path": "data/Decision/Allowed/RANDOM.ped",
-			"size": "4126",
+			"size": "4142",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/RANDOM.ped",
 			"gpu": "all"
 		},
 		{
 			"name": "RANDOM2.grp",
 			"path": "data/Decision/Allowed/RANDOM2.grp",
-			"size": "4605",
+			"size": "4623",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/Allowed/RANDOM2.grp",
 			"gpu": "all"
 		},
 		{
 			"name": "PedEvent.txt",
 			"path": "data/Decision/PedEvent.txt",
-			"size": "1216",
+			"size": "1298",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/Decision/PedEvent.txt",
 			"gpu": "all"
 		},
 		{
 			"name": "Audiozon.ipl",
 			"path": "data/maps/Audiozon.ipl",
-			"size": "10624",
+			"size": "10802",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/Audiozon.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "cull.ipl",
 			"path": "data/maps/cull.ipl",
-			"size": "103065",
+			"size": "104318",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/cull.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "occlu.ipl",
 			"path": "data/maps/occlu.ipl",
-			"size": "993",
+			"size": "1012",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/occlu.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "occluint.ipl",
 			"path": "data/maps/occluint.ipl",
-			"size": "2303",
+			"size": "2338",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/occluint.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "occluLA.ipl",
 			"path": "data/maps/occluLA.ipl",
-			"size": "35462",
+			"size": "35956",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/occluLA.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "occlusf.ipl",
 			"path": "data/maps/occlusf.ipl",
-			"size": "15891",
+			"size": "16114",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/occlusf.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "occluveg.ipl",
 			"path": "data/maps/occluveg.ipl",
-			"size": "17693",
+			"size": "17944",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/occluveg.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths.ipl",
 			"path": "data/maps/paths.ipl",
-			"size": "2605206",
+			"size": "2658607",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/paths.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths2.ipl",
 			"path": "data/maps/paths2.ipl",
-			"size": "2245002",
+			"size": "2292241",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/paths2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths3.ipl",
 			"path": "data/maps/paths3.ipl",
-			"size": "2378344",
+			"size": "2428066",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/paths3.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths4.ipl",
 			"path": "data/maps/paths4.ipl",
-			"size": "247219",
+			"size": "253014",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/paths4.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "paths5.ipl",
 			"path": "data/maps/paths5.ipl",
-			"size": "448568",
+			"size": "457678",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/paths5.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "tunnels.ipl",
 			"path": "data/maps/tunnels.ipl",
-			"size": "3171",
+			"size": "3230",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/tunnels.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countn2.ide",
 			"path": "data/maps/country/countn2.ide",
-			"size": "34636",
+			"size": "35439",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countn2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countn2.ipl",
 			"path": "data/maps/country/countn2.ipl",
-			"size": "41178",
+			"size": "41665",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countn2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countrye.ide",
 			"path": "data/maps/country/countrye.ide",
-			"size": "33753",
+			"size": "34529",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countrye.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countrye.ipl",
 			"path": "data/maps/country/countrye.ipl",
-			"size": "48733",
+			"size": "49301",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countrye.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countryN.ide",
 			"path": "data/maps/country/countryN.ide",
-			"size": "11034",
+			"size": "11308",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countryN.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countryN.ipl",
 			"path": "data/maps/country/countryN.ipl",
-			"size": "14231",
+			"size": "14407",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countryN.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countryS.ide",
 			"path": "data/maps/country/countryS.ide",
-			"size": "18007",
+			"size": "18450",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countryS.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countryS.ipl",
 			"path": "data/maps/country/countryS.ipl",
-			"size": "33471",
+			"size": "33835",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countryS.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "countryW.ide",
 			"path": "data/maps/country/countryW.ide",
-			"size": "19217",
+			"size": "19704",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countryW.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "countryw.ipl",
 			"path": "data/maps/country/countryw.ipl",
-			"size": "34645",
+			"size": "35057",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/countryw.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "counxref.ide",
 			"path": "data/maps/country/counxref.ide",
-			"size": "8289",
+			"size": "8494",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/country/counxref.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "barriers.ide",
 			"path": "data/maps/generic/barriers.ide",
-			"size": "1392",
+			"size": "1437",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/generic/barriers.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "dynamic.ide",
 			"path": "data/maps/generic/dynamic.ide",
-			"size": "4480",
+			"size": "4611",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/generic/dynamic.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "dynamic2.ide",
 			"path": "data/maps/generic/dynamic2.ide",
-			"size": "10252",
+			"size": "10510",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/generic/dynamic2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "multiobj.ide",
 			"path": "data/maps/generic/multiobj.ide",
-			"size": "4883",
+			"size": "5020",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/generic/multiobj.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "procobj.ide",
 			"path": "data/maps/generic/procobj.ide",
-			"size": "4636",
+			"size": "4755",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/generic/procobj.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegepart.ide",
 			"path": "data/maps/generic/vegepart.ide",
-			"size": "7879",
+			"size": "8062",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/generic/vegepart.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int1.ide",
 			"path": "data/maps/interior/gen_int1.ide",
-			"size": "2691",
+			"size": "2747",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int1.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int1.ipl",
 			"path": "data/maps/interior/gen_int1.ipl",
-			"size": "20833",
+			"size": "21074",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int1.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int2.ide",
 			"path": "data/maps/interior/gen_int2.ide",
-			"size": "10841",
+			"size": "10941",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int2.ipl",
 			"path": "data/maps/interior/gen_int2.ipl",
-			"size": "1647",
+			"size": "1683",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int3.ide",
 			"path": "data/maps/interior/gen_int3.ide",
-			"size": "3168",
+			"size": "3252",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int3.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int3.ipl",
 			"path": "data/maps/interior/gen_int3.ipl",
-			"size": "2052",
+			"size": "2091",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int3.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int4.ide",
 			"path": "data/maps/interior/gen_int4.ide",
-			"size": "2252",
+			"size": "2323",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int4.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int4.ipl",
 			"path": "data/maps/interior/gen_int4.ipl",
-			"size": "1154",
+			"size": "1185",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int4.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int5.ide",
 			"path": "data/maps/interior/gen_int5.ide",
-			"size": "4564",
+			"size": "4682",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int5.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_int5.ipl",
 			"path": "data/maps/interior/gen_int5.ipl",
-			"size": "2939",
+			"size": "2988",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_int5.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_intb.ide",
 			"path": "data/maps/interior/gen_intb.ide",
-			"size": "5390",
+			"size": "5459",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_intb.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "gen_intb.ipl",
 			"path": "data/maps/interior/gen_intb.ipl",
-			"size": "1591",
+			"size": "1626",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/gen_intb.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "int_cont.ide",
 			"path": "data/maps/interior/int_cont.ide",
-			"size": "365",
+			"size": "385",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_cont.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "int_cont.ipl",
 			"path": "data/maps/interior/int_cont.ipl",
-			"size": "878",
+			"size": "910",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_cont.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "int_LA.ide",
 			"path": "data/maps/interior/int_LA.ide",
-			"size": "5846",
+			"size": "6004",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_LA.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "int_LA.ipl",
 			"path": "data/maps/interior/int_LA.ipl",
-			"size": "1280",
+			"size": "1312",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_LA.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "int_SF.ide",
 			"path": "data/maps/interior/int_SF.ide",
-			"size": "1220",
+			"size": "1260",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_SF.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "int_SF.ipl",
 			"path": "data/maps/interior/int_SF.ipl",
-			"size": "1302",
+			"size": "1334",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_SF.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "int_veg.ide",
 			"path": "data/maps/interior/int_veg.ide",
-			"size": "4583",
+			"size": "4684",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_veg.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "int_veg.ipl",
 			"path": "data/maps/interior/int_veg.ipl",
-			"size": "5226",
+			"size": "5299",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/int_veg.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "propext.ide",
 			"path": "data/maps/interior/propext.ide",
-			"size": "2273",
+			"size": "2340",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/propext.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "props.ide",
 			"path": "data/maps/interior/props.ide",
-			"size": "25654",
+			"size": "26326",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/props.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "props2.ide",
 			"path": "data/maps/interior/props2.ide",
-			"size": "20639",
+			"size": "21174",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/props2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "savehous.ide",
 			"path": "data/maps/interior/savehous.ide",
-			"size": "1672",
+			"size": "1724",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/savehous.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "savehous.ipl",
 			"path": "data/maps/interior/savehous.ipl",
-			"size": "2912",
+			"size": "2959",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/savehous.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "stadint.ide",
 			"path": "data/maps/interior/stadint.ide",
-			"size": "2761",
+			"size": "2851",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/stadint.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "stadint.ipl",
 			"path": "data/maps/interior/stadint.ipl",
-			"size": "6200",
+			"size": "6299",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/interior/stadint.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAe.ide",
 			"path": "data/maps/LA/LAe.ide",
-			"size": "11944",
+			"size": "12249",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAe.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAe.ipl",
 			"path": "data/maps/LA/LAe.ipl",
-			"size": "26995",
+			"size": "27328",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAe.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAe2.ide",
 			"path": "data/maps/LA/LAe2.ide",
-			"size": "21418",
+			"size": "21907",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAe2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAe2.ipl",
 			"path": "data/maps/LA/LAe2.ipl",
-			"size": "33242",
+			"size": "33651",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAe2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAhills.ide",
 			"path": "data/maps/LA/LAhills.ide",
-			"size": "10370",
+			"size": "10601",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAhills.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAhills.ipl",
 			"path": "data/maps/LA/LAhills.ipl",
-			"size": "34102",
+			"size": "34506",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAhills.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAn.ide",
 			"path": "data/maps/LA/LAn.ide",
-			"size": "10830",
+			"size": "11107",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAn.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAn.ipl",
 			"path": "data/maps/LA/LAn.ipl",
-			"size": "14075",
+			"size": "14264",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAn.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAn2.ide",
 			"path": "data/maps/LA/LAn2.ide",
-			"size": "9340",
+			"size": "9565",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAn2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAn2.ipl",
 			"path": "data/maps/LA/LAn2.ipl",
-			"size": "13013",
+			"size": "13185",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAn2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAs.ide",
 			"path": "data/maps/LA/LAs.ide",
-			"size": "12280",
+			"size": "12575",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAs.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAs.ipl",
 			"path": "data/maps/LA/LAs.ipl",
-			"size": "22127",
+			"size": "22414",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAs.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAs2.ide",
 			"path": "data/maps/LA/LAs2.ide",
-			"size": "12081",
+			"size": "12364",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAs2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAs2.ipl",
 			"path": "data/maps/LA/LAs2.ipl",
-			"size": "37997",
+			"size": "38441",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAs2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAw.ide",
 			"path": "data/maps/LA/LAw.ide",
-			"size": "9178",
+			"size": "9412",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAw.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAw.ipl",
 			"path": "data/maps/LA/LAw.ipl",
-			"size": "14909",
+			"size": "15105",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAw.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAw2.ide",
 			"path": "data/maps/LA/LAw2.ide",
-			"size": "10803",
+			"size": "11060",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAw2.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LAw2.ipl",
 			"path": "data/maps/LA/LAw2.ipl",
-			"size": "17990",
+			"size": "18232",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAw2.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LaWn.ide",
 			"path": "data/maps/LA/LaWn.ide",
-			"size": "12772",
+			"size": "13092",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LaWn.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "LaWn.ipl",
 			"path": "data/maps/LA/LaWn.ipl",
-			"size": "24010",
+			"size": "24330",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LaWn.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "LAxref.ide",
 			"path": "data/maps/LA/LAxref.ide",
-			"size": "10238",
+			"size": "10477",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/LA/LAxref.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "leveldes.ide",
 			"path": "data/maps/leveldes/leveldes.ide",
-			"size": "341",
+			"size": "360",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/leveldes.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "leveldes.ipl",
 			"path": "data/maps/leveldes/leveldes.ipl",
-			"size": "142",
+			"size": "165",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/leveldes.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "levelmap.ide",
 			"path": "data/maps/leveldes/levelmap.ide",
-			"size": "3098",
+			"size": "3194",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/levelmap.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "levelmap.ipl",
 			"path": "data/maps/leveldes/levelmap.ipl",
-			"size": "4597",
+			"size": "4675",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/levelmap.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "levelxre.ide",
 			"path": "data/maps/leveldes/levelxre.ide",
-			"size": "9634",
+			"size": "9897",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/levelxre.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "seabed.ide",
 			"path": "data/maps/leveldes/seabed.ide",
-			"size": "11725",
+			"size": "12039",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/seabed.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "seabed.ipl",
 			"path": "data/maps/leveldes/seabed.ipl",
-			"size": "23044",
+			"size": "23342",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/leveldes/seabed.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFe.ide",
 			"path": "data/maps/SF/SFe.ide",
-			"size": "15801",
+			"size": "16224",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFe.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "SFe.ipl",
 			"path": "data/maps/SF/SFe.ipl",
-			"size": "26364",
+			"size": "26707",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFe.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFn.ide",
 			"path": "data/maps/SF/SFn.ide",
-			"size": "10934",
+			"size": "11219",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFn.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "SFn.ipl",
 			"path": "data/maps/SF/SFn.ipl",
-			"size": "25866",
+			"size": "26201",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFn.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFs.ide",
 			"path": "data/maps/SF/SFs.ide",
-			"size": "18506",
+			"size": "18948",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFs.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "SFs.ipl",
 			"path": "data/maps/SF/SFs.ipl",
-			"size": "37517",
+			"size": "37969",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFs.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFSe.ide",
 			"path": "data/maps/SF/SFSe.ide",
-			"size": "29547",
+			"size": "30227",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFSe.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "SFSe.ipl",
 			"path": "data/maps/SF/SFSe.ipl",
-			"size": "52710",
+			"size": "53359",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFSe.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFw.ide",
 			"path": "data/maps/SF/SFw.ide",
-			"size": "16043",
+			"size": "16473",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFw.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "SFw.ipl",
 			"path": "data/maps/SF/SFw.ipl",
-			"size": "28886",
+			"size": "29247",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFw.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "SFxref.ide",
 			"path": "data/maps/SF/SFxref.ide",
-			"size": "4518",
+			"size": "4631",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/SF/SFxref.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegasE.ide",
 			"path": "data/maps/vegas/vegasE.ide",
-			"size": "34726",
+			"size": "35542",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegasE.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegasE.ipl",
 			"path": "data/maps/vegas/vegasE.ipl",
-			"size": "60327",
+			"size": "61084",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegasE.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "VegasN.ide",
 			"path": "data/maps/vegas/VegasN.ide",
-			"size": "23173",
+			"size": "23715",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/VegasN.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegasN.ipl",
 			"path": "data/maps/vegas/vegasN.ipl",
-			"size": "36186",
+			"size": "36651",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegasN.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "VegasS.ide",
 			"path": "data/maps/vegas/VegasS.ide",
-			"size": "18232",
+			"size": "18656",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/VegasS.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegasS.ipl",
 			"path": "data/maps/vegas/vegasS.ipl",
-			"size": "29942",
+			"size": "30343",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegasS.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "VegasW.ide",
 			"path": "data/maps/vegas/VegasW.ide",
-			"size": "24885",
+			"size": "25456",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/VegasW.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegasW.ipl",
 			"path": "data/maps/vegas/vegasW.ipl",
-			"size": "49244",
+			"size": "49867",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegasW.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "vegaxref.ide",
 			"path": "data/maps/vegas/vegaxref.ide",
-			"size": "5614",
+			"size": "5751",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegaxref.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "vegaxref.ipl",
 			"path": "data/maps/vegas/vegaxref.ipl",
-			"size": "3601",
+			"size": "3661",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/vegas/vegaxref.ipl",
 			"gpu": "all"
 		},
 		{
 			"name": "veh_mods.ide",
 			"path": "data/maps/veh_mods/veh_mods.ide",
-			"size": "7117",
+			"size": "7323",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/maps/veh_mods/veh_mods.ide",
 			"gpu": "all"
 		},
@@ -1542,28 +1542,28 @@
 		{
 			"name": "tracks.dat",
 			"path": "data/paths/tracks.dat",
-			"size": "24547",
+			"size": "25474",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/paths/tracks.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "tracks2.dat",
 			"path": "data/paths/tracks2.dat",
-			"size": "1824",
+			"size": "1892",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/paths/tracks2.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "tracks3.dat",
 			"path": "data/paths/tracks3.dat",
-			"size": "8027",
+			"size": "8328",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/paths/tracks3.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "tracks4.dat",
 			"path": "data/paths/tracks4.dat",
-			"size": "17690",
+			"size": "18347",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/data/paths/tracks4.dat",
 			"gpu": "all"
 		},
@@ -1605,7 +1605,7 @@
 		{
 			"name": "effects.fxp",
 			"path": "models/effects.fxp",
-			"size": "573091",
+			"size": "616708",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/models/effects.fxp",
 			"gpu": "all"
 		},
@@ -1633,7 +1633,7 @@
 		{
 			"name": "gta.dat",
 			"path": "SAMP/gta.dat",
-			"size": "3661",
+			"size": "3808",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/gta.dat",
 			"gpu": "all"
 		},
@@ -1654,7 +1654,7 @@
 		{
 			"name": "samp.ide",
 			"path": "SAMP/samp.ide",
-			"size": "85744",
+			"size": "87794",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/samp.ide",
 			"gpu": "all"
 		},
@@ -1668,21 +1668,21 @@
 		{
 			"name": "vehicles.ide",
 			"path": "SAMP/vehicles.ide",
-			"size": "20864",
+			"size": "21093",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/vehicles.ide",
 			"gpu": "all"
 		},
 		{
 			"name": "WEAPON.dat",
 			"path": "SAMP/weapon.dat",
-			"size": "11431",
+			"size": "11602",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/weapon.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "stream.ini",
 			"path": "stream.ini",
-			"size": "186",
+			"size": "197",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/stream.ini",
 			"gpu": "all"
 		},
@@ -1752,7 +1752,7 @@
 		{
 			"name": "gta_int.txt",
 			"path": "texdb/gta_int/gta_int.txt",
-			"size": "171566",
+			"size": "174099",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/gta_int/gta_int.txt",
 			"gpu": "all"
 		},
@@ -1920,7 +1920,7 @@
 		{
 			"name": "menu.txt",
 			"path": "texdb/menu/menu.txt",
-			"size": "3103",
+			"size": "3147",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/menu/menu.txt",
 			"gpu": "all"
 		},
@@ -1997,7 +1997,7 @@
 		{
 			"name": "mobile.txt",
 			"path": "texdb/mobile/mobile.txt",
-			"size": "14490",
+			"size": "14688",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/mobile/mobile.txt",
 			"gpu": "all"
 		},
@@ -2151,7 +2151,7 @@
 		{
 			"name": "samp.txt",
 			"path": "texdb/samp/samp.txt",
-			"size": "62664",
+			"size": "63746",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/samp/samp.txt",
 			"gpu": "all"
 		},
@@ -2368,7 +2368,7 @@
 		{
 			"name": "img0.txt",
 			"path": "texdb/img0/img0.txt",
-			"size": "1209",
+			"size": "1227",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img0/img0.txt",
 			"gpu": "all"
 		},
@@ -2480,7 +2480,7 @@
 		{
 			"name": "img1.txt",
 			"path": "texdb/img1/img1.txt",
-			"size": "3999",
+			"size": "4047",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.txt",
 			"gpu": "all"
 		},
@@ -2599,7 +2599,7 @@
 		{
 			"name": "img2.txt",
 			"path": "texdb/img2/img2.txt",
-			"size": "10347",
+			"size": "10465",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.txt",
 			"gpu": "all"
 		},
@@ -2683,7 +2683,7 @@
 		{
 			"name": "JapaneseFont.met",
 			"path": "Textures/fonts/JapaneseFont.met",
-			"size": "43496",
+			"size": "45171",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/Textures/fonts/JapaneseFont.met",
 			"gpu": "all"
 		},
