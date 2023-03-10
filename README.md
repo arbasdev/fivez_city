@@ -1,2 +1,2 @@
 # fivezcity
-data
+json
