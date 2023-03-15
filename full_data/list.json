@@ -1795,7 +1795,7 @@
 			"name": "gta3.dxt.dat",
 			"path": "texdb/gta3/gta3.dxt.dat",
 			"size": "185360320",
-			"url": "https://github.com/arbasdev/fivez_data/releases/download/data_files/gta3.dxt.dat",
+			"url": "https://github.com/arbasdev/fivez_city/releases/download/data_files/gta3.dxt.dat",
 			"gpu": "all"
 		},
 		{
@@ -1816,7 +1816,7 @@
 			"name": "gta3.etc.dat",
 			"path": "texdb/gta3/gta3.etc.dat",
 			"size": "185815036",
-			"url": "https://github.com/arbasdev/fivez_data/releases/download/data_files/gta3.etc.dat",
+			"url": "https://github.com/arbasdev/fivez_city/releases/download/data_files/gta3.etc.dat",
 			"gpu": "all"
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"name": "gta3.pvr.dat",
 			"path": "texdb/gta3/gta3.pvr.dat",
 			"size": "115246394",
-			"url": "https://github.com/arbasdev/fivez_data/releases/download/data_files/gta3.pvr.dat",
+			"url": "https://github.com/arbasdev/fivez_city/releases/download/data_files/gta3.pvr.dat",
 			"gpu": "all"
 		},
 		{
@@ -1872,7 +1872,7 @@
 			"name": "gta3.img",
 			"path": "texdb/gta3.img",
 			"size": "283525120",
-			"url": "https://github.com/arbasdev/fivez_data/releases/download/data_files/gta3.img",
+			"url": "https://github.com/arbasdev/fivez_city/releases/download/data_files/gta3.img",
 			"gpu": "all"
 		},
 		{
