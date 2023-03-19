@@ -1617,6 +1617,13 @@
 			"gpu": "all"
 		},
 		{
+			"name": "arialfix.ttf",
+			"path": "SAMP/fonts/arialfix.ttf",
+			"size": "106416",
+			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/fonts/arialfix.ttf",
+			"gpu": "all"
+		},
+		{
 			"name": "gtaweap3.ttf",
 			"path": "SAMP/fonts/gtaweap3.ttf",
 			"size": "99296",
