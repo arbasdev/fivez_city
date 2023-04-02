@@ -457,7 +457,7 @@
 		{
 			"name": "handling.cfg",
 			"path": "data/handling.cfg",
-			"size": "64532",
+			"size": "64544",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/data/handling.cfg",
 			"gpu": "all"
 		},
