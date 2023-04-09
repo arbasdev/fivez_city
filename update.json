@@ -1,7 +1,7 @@
 {
-    "game_version": "7.2",
+    "game_version": "7.3",
 	"game_state": "true",
-	"game_message": "ขออภัยในความไม่สะดวก..ปิดปรับปรุงระบบ 2 - 3 ชั่วโมง",
+	"game_message": "ขออภัยในความไม่สะดวก..ปิดปรับปรุงระบบ 10 นาที",
     "game_url": "https://arbasdev.github.io/fivez_city/game/gtafivez.apk",
 	"game_link": "2",
     "lite_data_url": "https://arbasdev.github.io/fivez_city/lite_data/list.json",
