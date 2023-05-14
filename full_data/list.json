@@ -2424,119 +2424,119 @@
 		{
 			"name": "img1.360.dat",
 			"path": "texdb/img1/img1.360.dat",
-			"size": "14231722",
+			"size": "12915174",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.360.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.360.tmb",
 			"path": "texdb/img1/img1.360.tmb",
-			"size": "13056",
+			"size": "16048",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.360.tmb",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.360.toc",
 			"path": "texdb/img1/img1.360.toc",
-			"size": "196",
+			"size": "240",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.360.toc",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.dxt.dat",
 			"path": "texdb/img1/img1.dxt.dat",
-			"size": "14231722",
+			"size": "12915174",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.dxt.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.dxt.tmb",
 			"path": "texdb/img1/img1.dxt.tmb",
-			"size": "13056",
+			"size": "16048",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.dxt.tmb",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.dxt.toc",
 			"path": "texdb/img1/img1.dxt.toc",
-			"size": "196",
+			"size": "240",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.dxt.toc",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.etc.dat",
 			"path": "texdb/img1/img1.etc.dat",
-			"size": "19159162",
+			"size": "17088538",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.etc.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.etc.tmb",
 			"path": "texdb/img1/img1.etc.tmb",
-			"size": "13056",
+			"size": "16048",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.etc.tmb",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.etc.toc",
 			"path": "texdb/img1/img1.etc.toc",
-			"size": "196",
+			"size": "240",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.etc.toc",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.pvr.dat",
 			"path": "texdb/img1/img1.pvr.dat",
-			"size": "8898048",
+			"size": "7796772",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.pvr.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.pvr.tmb",
 			"path": "texdb/img1/img1.pvr.tmb",
-			"size": "13056",
+			"size": "16048",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.pvr.tmb",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.pvr.toc",
 			"path": "texdb/img1/img1.pvr.toc",
-			"size": "196",
+			"size": "240",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.pvr.toc",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.txt",
 			"path": "texdb/img1/img1.txt",
-			"size": "4128",
+			"size": "4514",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.txt",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.unc.dat",
 			"path": "texdb/img1/img1.unc.dat",
-			"size": "19159162",
+			"size": "19022200",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.unc.dat",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.unc.tmb",
 			"path": "texdb/img1/img1.unc.tmb",
-			"size": "13056",
+			"size": "16048",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.unc.tmb",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.unc.toc",
 			"path": "texdb/img1/img1.unc.toc",
-			"size": "196",
+			"size": "240",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1/img1.unc.toc",
 			"gpu": "all"
 		},
 		{
 			"name": "img1.img",
 			"path": "texdb/img1.img",
-			"size": "10020864",
+			"size": "9801728",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img1.img",
 			"gpu": "all"
 		},
