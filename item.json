@@ -14,7 +14,7 @@
         },
         {
             "4": "เหล็ก",
-            "pic": ""
+            "pic": "https://cdn-icons-png.flaticon.com/128/9873/9873607.png"
         },
         {
             "5": "ทอง",
@@ -33,7 +33,7 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/3486/3486388.png"
         },
         {
-            "9": "ชีสเบอร์เกอร์ไก่",
+            "9": "เบอร์เกอร์ไก่",
             "pic": "https://cdn-icons-png.flaticon.com/128/2497/2497906.png"
         },
         {
@@ -41,8 +41,8 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/536/536657.png"
         },
         {
-            "11": "เครปกรอบสลัดไก่",
-            "pic": "https://cdn-icons-png.flaticon.com/128/10583/10583066.png"
+            "11": "เครปสลัดไก่",
+            "pic": "https://cdn-icons-png.flaticon.com/128/6978/6978201.png"
         },
         {
             "12": "เฟรนช์ฟรายส์",
@@ -53,11 +53,11 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/1951/1951379.png"
         },
         {
-            "14": "ชุดปฐมพยาบาล",
+            "14": "ปฐมพยาบาล",
             "pic": "https://cdn-icons-png.flaticon.com/128/2780/2780106.png"
         },
         {
-            "15": "อุปกรณ์ซ่อมรถ",
+            "15": "ซ่อมรถ",
             "pic": "https://cdn-icons-png.flaticon.com/128/8843/8843894.png"
         },
         {
@@ -81,11 +81,11 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/7681/7681898.png"
         },
         {
-            "21": "กุญแจล็อคคลังรถ",
+            "21": "ล็อคคลังรถ",
             "pic": "https://cdn-icons-png.flaticon.com/128/709/709009.png"
         },
         {
-            "22": "แพ็กเกจเน็ตรายวัน",
+            "22": "เน็ตรายวัน",
             "pic": "https://cdn-icons-png.flaticon.com/128/10211/10211053.png"
         },
         {
@@ -121,7 +121,7 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/7486/7486925.png"
         },
         {
-            "31": "กล่องสุ่มตัวละครชาย",
+            "31": "สุ่มตัวละครชาย",
             "pic": "https://cdn-icons-png.flaticon.com/128/3088/3088877.png"
         },
         {
@@ -130,7 +130,7 @@
         },
         {
             "33": "ทราย",
-            "pic": "https://cdn-icons-png.flaticon.com/128/391/391545.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/4492/4492623.png"
         },
         {
             "34": "กระจก",
@@ -166,18 +166,18 @@
         },
         {
             "42": "เบอร์รี่",
-            "pic": "https://cdn-icons-png.flaticon.com/128/1514/1514967.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/1680/1680531.png"
         },
         {
             "43": "เบอร์รี่แพ็ค",
-            "pic": ""
+            "pic": "https://cdn-icons-png.flaticon.com/128/1915/1915391.png"
         },
         {
             "44": "โทรโข่ง",
             "pic": "https://cdn-icons-png.flaticon.com/128/3222/3222979.png"
         },
         {
-            "45": "กล่องสุ่มตัวละครหญิง",
+            "45": "สุ่มตัวละครหญิง",
             "pic": "https://cdn-icons-png.flaticon.com/128/3088/3088877.png"
         },
         {
@@ -242,18 +242,18 @@
         },
         {
             "61": "ใบกันอาวุธตก",
-            "pic": ""
+            "pic": "https://cdn-icons-png.flaticon.com/128/11331/11331276.png"
         },
         {
-            "62": "กล่องเสี่ยงโชค(A1)",
+            "62": "เสี่ยงโชค(A1)",
             "pic": "https://cdn-icons-png.flaticon.com/128/8727/8727122.png"
         },
         {
-            "63": "กล่องเสี่ยงโชค(A2)",
+            "63": "เสี่ยงโชค(A2)",
             "pic": "https://cdn-icons-png.flaticon.com/128/8727/8727122.png"
         },
         {
-            "64": "กล่องเสี่ยงโชค(A3)",
+            "64": "เสี่ยงโชค(A3)",
             "pic": "https://cdn-icons-png.flaticon.com/128/8727/8727122.png"
         },
         {
@@ -269,36 +269,36 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/1951/1951550.png"
         },
         {
-            "68": "ไข่กาชาตัวละคร",
+            "68": "กาชาตัวละคร",
             "pic": "https://cdn-icons-png.flaticon.com/128/1752/1752731.png"
         },
         {
-            "69": "ไข่กาชารถ",
+            "69": "กาชารถ",
             "pic": "https://cdn-icons-png.flaticon.com/128/1752/1752699.png"
         },
         {
-            "70": "ไข่กาชาแต่งตัว",
+            "70": "กาชาแต่งตัว",
             "pic": "https://cdn-icons-png.flaticon.com/128/1752/1752717.png"
         },
         {
-            "71": "Helmet[Red]",
+            "71": "Helmet[R]",
             "pic": "https://cdn-icons-png.flaticon.com/128/882/882166.png"
         },
         {
-            "72": "Helmet[Blue]",
+            "72": "Helmet[B]",
             "pic": "https://cdn-icons-png.flaticon.com/128/2022/2022797.png"
         },
         {
-            "73": "Helmet[Purple]",
+            "73": "Helmet[P]",
             "pic": "https://cdn-icons-png.flaticon.com/128/1239/1239846.png"
         },
         {
             "74": "Helmet[S]",
-            "pic": ""
+            "pic": "https://cdn-icons-png.flaticon.com/128/1275/1275415.png"
         },
         {
             "75": "Helmet[SS]",
-            "pic": ""
+            "pic": "https://cdn-icons-png.flaticon.com/128/705/705637.png"
         },
         {
             "76": "HatBoater[1]",
@@ -638,7 +638,7 @@
         },
         {
             "160": "SantaHat",
-            "pic": ""
+            "pic": "https://cdn-icons-png.flaticon.com/128/8732/8732404.png"
         },
         {
             "161": "WitchesHat",
@@ -801,16 +801,16 @@
             "pic": ""
         },
         {
-            "201": "ไข่กาชาอาวุธ",
+            "201": "กาชาอาวุธ",
             "pic": "https://cdn-icons-png.flaticon.com/128/1752/1752871.png"
         },
         {
-            "202": "ไข่กาชาสายฟรี",
+            "202": "กาชา",
             "pic": "https://cdn-icons-png.flaticon.com/128/1752/1752776.png"
         },
         {
             "203": "ใบขายสินค้า",
-            "pic": "https://cdn-icons-png.flaticon.com/128/869/869648.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/5432/5432799.png"
         },
         {
             "204": "สายไฟ",
@@ -873,7 +873,7 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/2095/2095666.png"
         },
         {
-            "219": "ปีกฟีนิกซ์[Black]",
+            "219": "ปีกฟีนิกซ์[ดำ]",
             "pic": ""
         },
         {
@@ -881,7 +881,7 @@
             "pic": ""
         },
         {
-            "221": "หมวกราชันย์เกมส์",
+            "221": "ราชันย์เกมส์",
             "pic": ""
         },
         {
@@ -905,7 +905,7 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/11228/11228444.png"
         },
         {
-            "227": "ผ้าปิดปาก[China]",
+            "227": "ผ้าปิดปาก[จีน]",
             "pic": ""
         },
         {
@@ -921,15 +921,15 @@
             "pic": ""
         },
         {
-            "231": "หมวกเจ้าแห่งราชันย์",
+            "231": "เจ้าแห่งราชันย์",
             "pic": ""
         },
         {
-            "232": "หมวกจอมตะกละ",
+            "232": "จอมตะกละ",
             "pic": ""
         },
         {
-            "233": "หมวกราชันย์อสูร",
+            "233": "ราชันย์อสูร",
             "pic": ""
         },
         {
@@ -954,22 +954,22 @@
         },
         {
             "239": "กุญแจตู้เซฟ[1]",
-            "pic": "https://cdn-icons-png.flaticon.com/128/855/855025.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/2538/2538056.png"
         },
         {
             "240": "กุญแจตู้เซฟ[2]",
-            "pic": "https://cdn-icons-png.flaticon.com/128/855/855025.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/2538/2538056.png"
         },
         {
             "241": "กุญแจตู้เซฟ[3]",
-            "pic": "https://cdn-icons-png.flaticon.com/128/855/855025.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/2538/2538056.png"
         },
         {
             "242": "กุญแจตู้เซฟ[4]",
             "pic": "https://cdn-icons-png.flaticon.com/128/2538/2538056.png"
         },
         {
-            "243": "หมวกราชันย์ปีศาจ",
+            "243": "ราชันย์ปีศาจ",
             "pic": ""
         },
         {
@@ -977,7 +977,7 @@
             "pic": "https://cdn-icons-png.flaticon.com/128/1579/1579460.png"
         },
         {
-            "245": "ปีกฟีนิกซ์[White]",
+            "245": "ปีกฟีนิกซ์[ขาว]",
             "pic": ""
         },
         {
