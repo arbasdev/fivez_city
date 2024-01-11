@@ -1011,6 +1011,18 @@
         {
             "253": "อสูรกาย",
             "pic": "http://gift-voucher.net/images/253.png"
+        },
+        {
+            "254": "กระบอกเพชร",
+            "pic": "https://cdn-icons-png.flaticon.com/128/5861/5861791.png"
+        },
+        {
+            "255": "เห็ด",
+            "pic": "https://cdn-icons-png.flaticon.com/128/12053/12053595.png"
+        },
+        {
+            "256": "เทส",
+            "pic": ""
         }
     ]
 }
