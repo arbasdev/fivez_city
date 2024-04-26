@@ -1680,32 +1680,11 @@
 			"gpu": "all"
 		},
 		{
-			"name": "WEAPON.dat",
-			"path": "SAMP/weapon.dat",
-			"size": "11602",
-			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/weapon.dat",
-			"gpu": "all"
-		},
-		{
 			"name": "fivezcity.ide",
 			"path": "SAMP/fivezcity.ide",
 			"size": "496",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/fivezcity.ide",
 			"gpu": "load"
-		},
-		{
-			"name": "handling.cfg",
-			"path": "SAMP/handling.cfg",
-			"size": "64560",
-			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/handling.cfg",
-			"gpu": "all"
-		},
-		{
-			"name": "melee.dat",
-			"path": "SAMP/melee.dat",
-			"size": "6320",
-			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/melee.dat",
-			"gpu": "all"
 		},
 		{
 			"name": "Adjustable.cfg",
