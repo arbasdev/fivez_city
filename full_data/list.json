@@ -1654,7 +1654,7 @@
 		{
 			"name": "peds.ide",
 			"path": "SAMP/peds.ide",
-			"size": "37456",
+			"size": "37472",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/peds.ide",
 			"gpu": "all"
 		},
@@ -2543,119 +2543,119 @@
 		{
 			"name": "img2.360.dat",
 			"path": "texdb/img2/img2.360.dat",
-			"size": "29942352",
+			"size": "30896514",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.360.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.360.tmb",
 			"path": "texdb/img2/img2.360.tmb",
-			"size": "31824",
+			"size": "35360",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.360.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.360.toc",
 			"path": "texdb/img2/img2.360.toc",
-			"size": "472",
+			"size": "528",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.360.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.dxt.dat",
 			"path": "texdb/img2/img2.dxt.dat",
-			"size": "29942352",
+			"size": "30896514",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.dxt.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.dxt.tmb",
 			"path": "texdb/img2/img2.dxt.tmb",
-			"size": "31824",
+			"size": "35360",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.dxt.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.dxt.toc",
 			"path": "texdb/img2/img2.dxt.toc",
-			"size": "472",
+			"size": "528",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.dxt.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.etc.dat",
 			"path": "texdb/img2/img2.etc.dat",
-			"size": "38884954",
+			"size": "39745064",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.etc.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.etc.tmb",
 			"path": "texdb/img2/img2.etc.tmb",
-			"size": "31824",
+			"size": "35360",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.etc.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.etc.toc",
 			"path": "texdb/img2/img2.etc.toc",
-			"size": "472",
+			"size": "528",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.etc.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.pvr.dat",
 			"path": "texdb/img2/img2.pvr.dat",
-			"size": "22157648",
+			"size": "22828268",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.pvr.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.pvr.tmb",
 			"path": "texdb/img2/img2.pvr.tmb",
-			"size": "31824",
+			"size": "35360",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.pvr.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.pvr.toc",
 			"path": "texdb/img2/img2.pvr.toc",
-			"size": "472",
+			"size": "528",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.pvr.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.txt",
 			"path": "texdb/img2/img2.txt",
-			"size": "10465",
+			"size": "11276",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.txt",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.dat",
 			"path": "texdb/img2/img2.unc.dat",
-			"size": "38884954",
+			"size": "41646066",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.unc.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.tmb",
 			"path": "texdb/img2/img2.unc.tmb",
-			"size": "31824",
+			"size": "35360",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.unc.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.toc",
 			"path": "texdb/img2/img2.unc.toc",
-			"size": "472",
+			"size": "528",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2/img2.unc.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.img",
 			"path": "texdb/img2.img",
-			"size": "23361552",
+			"size": "29974544",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/img2.img",
 			"gpu": "load"
 		},
