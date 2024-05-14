@@ -1654,7 +1654,7 @@
 		{
 			"name": "peds.ide",
 			"path": "SAMP/peds.ide",
-			"size": "37472",
+			"size": "37504",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/peds.ide",
 			"gpu": "all"
 		},
