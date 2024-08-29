@@ -2543,7 +2543,7 @@
 		{
 			"name": "img2.360.dat",
 			"path": "texdb/img2/img2.360.dat",
-			"size": "32100142",
+			"size": "32120678",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.360.dat",
 			"gpu": "load"
 		},
@@ -2564,7 +2564,7 @@
 		{
 			"name": "img2.dxt.dat",
 			"path": "texdb/img2/img2.dxt.dat",
-			"size": "32100142",
+			"size": "32120678",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.dxt.dat",
 			"gpu": "load"
 		},
@@ -2585,7 +2585,7 @@
 		{
 			"name": "img2.etc.dat",
 			"path": "texdb/img2/img2.etc.dat",
-			"size": "41130288",
+			"size": "41142980",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.etc.dat",
 			"gpu": "load"
 		},
@@ -2606,7 +2606,7 @@
 		{
 			"name": "img2.pvr.dat",
 			"path": "texdb/img2/img2.pvr.dat",
-			"size": "23554360",
+			"size": "23562492",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.pvr.dat",
 			"gpu": "load"
 		},
@@ -2627,14 +2627,14 @@
 		{
 			"name": "img2.txt",
 			"path": "texdb/img2/img2.txt",
-			"size": "12609",
+			"size": "12611",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.txt",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.dat",
 			"path": "texdb/img2/img2.unc.dat",
-			"size": "43031290",
+			"size": "43043982",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.unc.dat",
 			"gpu": "load"
 		},
