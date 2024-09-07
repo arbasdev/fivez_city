@@ -35,6 +35,10 @@
 	{
             "9": "ธนาคาร",
             "pic": "https://img5.pic.in.th/file/secure-sv1/bank2f2cb3bd33e48e8b.png"
+        },
+	{
+            "10": "รถ",
+            "pic": "https://img5.pic.in.th/file/secure-sv1/caralert.png"
         }
     ]
 }
