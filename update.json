@@ -1,9 +1,9 @@
 {
-    "game_version": "9.8",
+    "game_version": "9.9",
 	"game_state": "true",
 	"game_message": "ขออภัยในความไม่สะดวก..ปิดปรับปรุงระบบ 10 นาที..",
     "game_url": "https://github.com/arbasdev/fivez_city/releases/download/data_files/gtafivez.apk",
-	"game_link": "1",
+	"game_link": "2",
     "lite_data_url": "https://arbasdev.github.io/fivez_city/lite_data/list.json",
     "full_data_url": "https://arbasdev.github.io/fivez_city/full_data/list.json",
 	"game_splash": "https://i.postimg.cc/76p0SnTB/1.png"
