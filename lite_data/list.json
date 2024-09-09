@@ -1682,7 +1682,7 @@
 		{
 			"name": "fivezcity.ide",
 			"path": "SAMP/fivezcity.ide",
-			"size": "1280",
+			"size": "1344",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/fivezcity.ide",
 			"gpu": "load"
 		},
