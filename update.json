@@ -6,5 +6,6 @@
 	"game_link": "2",
     "lite_data_url": "https://arbasdev.github.io/fivez_city/lite_data/list.json",
     "full_data_url": "https://arbasdev.github.io/fivez_city/full_data/list.json",
-	"game_splash": "http://i.postimg.cc/76p0SnTB/1.png"
+    "game_splash": "http://i.postimg.cc/76p0SnTB/1.png",
+    "game_api": "1",
 }
