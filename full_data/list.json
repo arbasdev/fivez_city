@@ -2207,15 +2207,8 @@
 		{
 			"name": "samp.img",
 			"path": "texdb/samp.img",
-			"size": "37376000",
+			"size": "41095168",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/samp.img",
-			"gpu": "all"
-		},
-		{
-			"name": "sampcol.img",
-			"path": "texdb/sampcol.img",
-			"size": "3307520",
-			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/texdb/sampcol.img",
 			"gpu": "all"
 		},
 		{
