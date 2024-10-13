@@ -1668,7 +1668,7 @@
 		{
 			"name": "script.img",
 			"path": "SAMP/script.img",
-			"size": "184320",
+			"size": "194560",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/script.img",
 			"gpu": "all"
 		},
