@@ -1668,7 +1668,7 @@
 		{
 			"name": "script.img",
 			"path": "SAMP/script.img",
-			"size": "194560",
+			"size": "190464",
 			"url": "https://github.com/corsairwolf/fivez_city2/raw/main/full_data/SAMP/script.img",
 			"gpu": "all"
 		},
