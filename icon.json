@@ -2,44 +2,50 @@
     "item": [
 	{
             "1": "แจ้งเตือน",
-            "pic": "http://img5.pic.in.th/file/secure-sv1/warningd52c0f7c9582dbf7.png"
+            "pic": "https://img5.pic.in.th/file/secure-sv1/warningd52c0f7c9582dbf7.png"
         },
 	{
             "2": "ตำรวจ",
-            "pic": "http://img2.pic.in.th/pic/j_police.png"
+            "pic": "https://img2.pic.in.th/pic/j_police.png"
         },
 	{
             "3": "หมอ",
-            "pic": "http://img5.pic.in.th/file/secure-sv1/j_doctor.png"
+            "pic": "https://img5.pic.in.th/file/secure-sv1/j_doctor.png"
         },
 	{
             "4": "ช่าง",
-            "pic": "http://img5.pic.in.th/file/secure-sv1/j_repair.png"
+            "pic": "https://img5.pic.in.th/file/secure-sv1/j_repair.png"
         },
 	{
             "5": "Airdrop",
-            "pic": "http://img2.pic.in.th/pic/airdropee9ac3a825900b85.png"
+            "pic": "https://img2.pic.in.th/pic/airdropee9ac3a825900b85.png"
         },
 	{
             "6": "Logo",
-            "pic": "http://img5.pic.in.th/file/secure-sv1/logo3df7cf12d0779506c.png"
+            "pic": "https://img5.pic.in.th/file/secure-sv1/logo3df7cf12d0779506c.png"
         },
 	{
             "7": "เงิน",
-            "pic": "http://img5.pic.in.th/file/secure-sv1/moneydd402e00d58b9166.png"
+            "pic": "https://img5.pic.in.th/file/secure-sv1/moneydd402e00d58b9166.png"
         },
 	{
             "8": "เหรียญ",
-            "pic": "http://img2.pic.in.th/pic/coinfbd7a1c5a8194f0d.png"
+            "pic": "https://img2.pic.in.th/pic/coinfbd7a1c5a8194f0d.png"
         },
 	{
             "9": "ธนาคาร",
-            "pic": "http://img5.pic.in.th/file/secure-sv1/bank2f2cb3bd33e48e8b.png"
+            "pic": "https://img5.pic.in.th/file/secure-sv1/bank2f2cb3bd33e48e8b.png"
         },
-	{
+    {
             "10": "รถ",
-            "pic": "http://img2.pic.in.th/pic/car8ca96ea74f757d1b.png"
+            "pic": "https://cdn-icons-png.flaticon.com/128/9835/9835869.png"
+        },
+    {
+            "11": "Music",
+            "pic": "https://cdn-icons-png.flaticon.com/128/8939/8939356.png"
         }
+
+        
     ]
 }
 
