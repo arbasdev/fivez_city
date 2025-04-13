@@ -1682,7 +1682,7 @@
 		{
 			"name": "fivezcity.ide",
 			"path": "SAMP/fivezcity.ide",
-			"size": "1344",
+			"size": "1648",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/SAMP/fivezcity.ide",
 			"gpu": "load"
 		},
@@ -2424,238 +2424,238 @@
 		{
 			"name": "img1.360.dat",
 			"path": "texdb/img1/img1.360.dat",
-			"size": "34515132",
+			"size": "35989940",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.360.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.360.tmb",
 			"path": "texdb/img1/img1.360.tmb",
-			"size": "24480",
+			"size": "26112",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.360.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.360.toc",
 			"path": "texdb/img1/img1.360.toc",
-			"size": "364",
+			"size": "388",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.360.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.dxt.dat",
 			"path": "texdb/img1/img1.dxt.dat",
-			"size": "34516460",
+			"size": "36142138",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.dxt.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.dxt.tmb",
 			"path": "texdb/img1/img1.dxt.tmb",
-			"size": "24480",
+			"size": "26112",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.dxt.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.dxt.toc",
 			"path": "texdb/img1/img1.dxt.toc",
-			"size": "364",
+			"size": "388",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.dxt.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.etc.dat",
 			"path": "texdb/img1/img1.etc.dat",
-			"size": "36959844",
+			"size": "38419644",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.etc.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.etc.tmb",
 			"path": "texdb/img1/img1.etc.tmb",
-			"size": "24480",
+			"size": "26112",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.etc.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.etc.toc",
 			"path": "texdb/img1/img1.etc.toc",
-			"size": "364",
+			"size": "388",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.etc.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.pvr.dat",
 			"path": "texdb/img1/img1.pvr.dat",
-			"size": "41181188",
+			"size": "42745410",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.pvr.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.pvr.tmb",
 			"path": "texdb/img1/img1.pvr.tmb",
-			"size": "24480",
+			"size": "26112",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.pvr.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.pvr.toc",
 			"path": "texdb/img1/img1.pvr.toc",
-			"size": "364",
+			"size": "388",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.pvr.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.txt",
 			"path": "texdb/img1/img1.txt",
-			"size": "7088",
+			"size": "7472",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.txt",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.unc.dat",
 			"path": "texdb/img1/img1.unc.dat",
-			"size": "38893506",
+			"size": "45307492",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.unc.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.unc.tmb",
 			"path": "texdb/img1/img1.unc.tmb",
-			"size": "24480",
+			"size": "26112",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.unc.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.unc.toc",
 			"path": "texdb/img1/img1.unc.toc",
-			"size": "364",
+			"size": "388",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1/img1.unc.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img1.img",
 			"path": "texdb/img1.img",
-			"size": "26372112",
+			"size": "26748944",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img1.img",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.360.dat",
 			"path": "texdb/img2/img2.360.dat",
-			"size": "32120678",
+			"size": "34338870",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.360.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.360.tmb",
 			"path": "texdb/img2/img2.360.tmb",
-			"size": "39712",
+			"size": "45696",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.360.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.360.toc",
 			"path": "texdb/img2/img2.360.toc",
-			"size": "596",
+			"size": "684",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.360.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.dxt.dat",
 			"path": "texdb/img2/img2.dxt.dat",
-			"size": "32120678",
+			"size": "34338870",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.dxt.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.dxt.tmb",
 			"path": "texdb/img2/img2.dxt.tmb",
-			"size": "39712",
+			"size": "45696",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.dxt.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.dxt.toc",
 			"path": "texdb/img2/img2.dxt.toc",
-			"size": "596",
+			"size": "684",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.dxt.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.etc.dat",
 			"path": "texdb/img2/img2.etc.dat",
-			"size": "41142980",
+			"size": "43194630",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.etc.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.etc.tmb",
 			"path": "texdb/img2/img2.etc.tmb",
-			"size": "39712",
+			"size": "45696",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.etc.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.etc.toc",
 			"path": "texdb/img2/img2.etc.toc",
-			"size": "596",
+			"size": "684",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.etc.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.pvr.dat",
 			"path": "texdb/img2/img2.pvr.dat",
-			"size": "23562492",
+			"size": "25023892",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.pvr.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.pvr.tmb",
 			"path": "texdb/img2/img2.pvr.tmb",
-			"size": "39712",
+			"size": "45696",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.pvr.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.pvr.toc",
 			"path": "texdb/img2/img2.pvr.toc",
-			"size": "596",
+			"size": "684",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.pvr.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.txt",
 			"path": "texdb/img2/img2.txt",
-			"size": "12611",
+			"size": "13912",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.txt",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.dat",
 			"path": "texdb/img2/img2.unc.dat",
-			"size": "43043982",
+			"size": "49122120",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.unc.dat",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.tmb",
 			"path": "texdb/img2/img2.unc.tmb",
-			"size": "39712",
+			"size": "45696",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.unc.tmb",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.unc.toc",
 			"path": "texdb/img2/img2.unc.toc",
-			"size": "596",
+			"size": "684",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2/img2.unc.toc",
 			"gpu": "load"
 		},
 		{
 			"name": "img2.img",
 			"path": "texdb/img2.img",
-			"size": "35844112",
+			"size": "40460304",
 			"url": "https://github.com/arbasdev/fivez_data/raw/main/lite_data/texdb/img2.img",
 			"gpu": "load"
 		},
